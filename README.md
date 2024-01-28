@@ -35,11 +35,6 @@ these components.
 - **Flex2:** VCC layer for power distribution.
 - **Bottom Layer:** Used for signal routing and a +5V power supply.
 
-### Special Features
-- Additional tracks on the outer edges for enhanced rigidity.
-- Multiple vias and planes on the top layer for efficient power distribution and heat dissipation.
-- Strategic placement of decoupling capacitors for the TDMS351 IC.
-
 ## PCB Preview
 - **Routing View**
   ![Routing And Layers View](images/layers.png)
